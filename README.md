@@ -1,6 +1,6 @@
-# Hi 👋 I am Talha!  
+# Hi there, I'm Talha 👋  
 
-I am a third year Computer Science student at İstanbul Medipol University and the part of the DSC Medipol team.
+I'm a third year Computer Science student at İstanbul Medipol University and the part of the DSC Medipol team.
 
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talhaasan&show_icons=true&theme=radical)
 
