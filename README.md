@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [avokad.io](https://avokad.io/)
 
-- 🌱 I’m currently learning **Machine Learning,Computer Vision and Deep Learning.**
+- 🌱 I’m currently learning **DevOps,Cloud and Machine Learning.**
 
 - 📫 How to reach me **talha.asan@outlook.com**
 
