@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">I'm a third year Computer Science student at İstanbul Medipol University and the part of the DSC Medipol Team.</h3>
+<h3 align="center">I'm a fourth year Computer Science student at İstanbul Medipol University and the part of the DSC Medipol Team.</h3>
 
 - 🔭 I’m currently working on [avokad.io](https://avokad.io/)
 
