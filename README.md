@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on [B2Metric](https://b2metric.com/)
 
-- 🌱 I’m currently learning **DevOps, Cloud and Machine Learning.**
+- 🌱 I’m currently learning **DevOps, Cloud and Machine Learning (https://dev.to/talhaasan). **
 
 - 📫 How to reach me **talha.asan@outlook.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
