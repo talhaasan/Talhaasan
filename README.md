@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [B2Metric](https://b2metric.com/)
 
-- 🌱 I’m currently learning **DevOps, Cloud and Machine Learning. My dev.to account is https://dev.to/talhaasan. **
+- 🌱 I’m currently learning DevOps, Cloud and Machine Learning. My dev.to account is https://dev.to/talhaasan.
 
 - 📫 How to reach me **talha.asan@outlook.com**
 
