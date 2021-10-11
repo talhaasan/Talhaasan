@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">I'm a fourth year Computer Science student at İstanbul Medipol University and the part of the DSC Medipol Team.</h3>
 
-- 🔭 I’m currently working on [B2Metric](https://b2metric.com/)
+- 🔭 I’m currently working on [PATH](https://path.com.tr)
 
 - 🌱 I’m currently learning DevOps, Cloud and Machine Learning. My dev.to account is https://dev.to/talhaasan.
 
