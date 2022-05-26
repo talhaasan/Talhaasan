@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">I'm a fourth year Computer Engineer student at İstanbul Medipol University.</h3>
 
-- 🔭 I’m currently working on [PATH](https://path.com.tr) as a Jr. DevOps Engineer.
+- 🔭 I’m currently working on [adesso Turkey](https://www.adesso.com.tr/) as a Cloud Engineer.
 
 - 🌱 I’m currently learning DevOps, Cloud and Machine Learning. My dev.to account is https://dev.to/talhaasan.
 
