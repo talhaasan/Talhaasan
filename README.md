@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [adesso Turkey](https://www.adesso.com.tr/) as a DevOps and Cloud Engineer.
 
-- 🌱 I’m currently learning DevOps, Cloud and Machine Learning. My dev.to account is https://dev.to/talhaasan and my medium accaount is https://medium.com/@talhaasan.
+- 🌱 I’m currently learning DevOps, Cloud and Machine Learning. My dev.to account is https://dev.to/talhaasan and my medium account is https://medium.com/@talhaasan.
 
 - 📫 How to reach me **talha.asan@outlook.com**
 
