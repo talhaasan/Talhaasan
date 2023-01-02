@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Talha</h1>
+<h1 align="center">Hi 👋, I'm Talha I am Cloud and DevOps Engineer with 1.5+ years of hands-on experience in architecting, automating and optimizing applications over on-premise and cloud infrastructures. I have experience in prod environment in DevOps tools such as Docker, Kubernetes, Terraform, Ansible, Jenkins. In addition, I am interested in Microservices and Distributed Systems. I am trying to implement these topics in the Go language.</h1>
 
 - 🔭 I’m currently working on [adesso Turkey](https://www.adesso.com.tr/) as a DevOps and Cloud Engineer.
 
-- 🌱 I’m currently learning DevOps, Cloud and Machine Learning. My dev.to account is https://dev.to/talhaasan.
+- 🌱 I’m currently learning DevOps, Cloud and Machine Learning. My dev.to account is https://dev.to/talhaasan and my medium accaount is https://medium.com/@talhaasan.
 
 - 📫 How to reach me **talha.asan@outlook.com**
 
