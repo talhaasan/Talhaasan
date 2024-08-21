@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha </h1>
 
-<h3> I am Cloud and DevOps Engineer with 2 years of hands-on experience in architecting, automating and optimizing applications over on-premise and cloud infrastructures. I have experience in prod environment in DevOps tools such as Docker, Kubernetes, Terraform, Ansible, Jenkins. In addition, I am interested in Microservices and Distributed Systems. I am trying to implement these topics in the Go language. </h3>
+<h3> I am Cloud and DevOps Engineer with 3 years of hands-on experience in architecting, automating and optimizing applications over on-premise and cloud infrastructures. I have experience in prod environment in DevOps tools such as Docker, Kubernetes, Terraform, Ansible, Jenkins. In addition, I am interested in Microservices and Distributed Systems. I am trying to implement these topics in the Go language. </h3>
 
 - 🔭 I’m currently working on [Dgpays](https://dgpays.com/) as a DevOps Engineer.
 
